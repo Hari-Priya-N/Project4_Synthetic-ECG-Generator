@@ -1,6 +1,6 @@
 # Project4_Synthetic-ECG-Generator 
 ##Project 4 — Group Project  
-- Team Members:  Likitha , MD Lathif , Sruthika , Navadeep , Hari Priya , SK Sameer
+- Team Members:   Likitha , MD Lathif , Sruthika , Navadeep , Hari Priya , SK Sameer
 
 ---
 
