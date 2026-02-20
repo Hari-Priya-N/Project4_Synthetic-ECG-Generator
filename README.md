@@ -139,7 +139,7 @@ Hari Priya
 ---
 
 ## Dataset  
-
+# https://www.kaggle.com/datasets/taejoongyoon/mitbit-arrhythmia-database
 ECG dataset used for training contains real electrocardiogram waveform recordings.  
 
 The dataset is preprocessed before feeding into the GAN model to ensure stable training and realistic signal generation.
