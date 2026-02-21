@@ -158,8 +158,14 @@ The dataset is preprocessed before feeding into the GAN model to ensure stable t
 
 ---
 #  Results
+
+The WGAN model successfully generated realistic synthetic ECG signals that closely resemble real cardiac waveforms in shape and amplitude. The training remained stable due to the use of Wasserstein loss with gradient penalty. The generated signals were suitable for data augmentation and preserved patient privacy by avoiding the use of real ECG data
+
 ---
 #  Conclusion
+
+The project effectively addresses ECG data scarcity and privacy concerns by implementing a privacy-preserving WGAN framework. The modular architecture ensures scalability, stability, and practical deployment for future cardiac AI applications. Overall, the system provides a secure and reliable solution for synthetic ECG generation and cardiac model development
+
 ---
 
 
