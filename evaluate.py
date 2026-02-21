@@ -25,4 +25,4 @@ def generate_and_save_ecg(generator, n_samples):
     data_path = os.path.join(SAVE_DIR, "generated_ecg_batch.npy")
     save_raw_data(generated_ecg, data_path)
 
-    print(f"✅ Raw data saved to: {data_path}")
+    print(f" Raw data saved to: {data_path}")
