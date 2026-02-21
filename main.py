@@ -8,7 +8,7 @@ from evaluate import generate_and_save_ecg
 def main():
     generator = load_generator(MODEL_PATH)
     generate_and_save_ecg(generator, DEFAULT_SAMPLES)
-    print("\n✅ Process Complete.")
+    print("\n Process Complete.")
 
 
 if __name__ == "__main__":
